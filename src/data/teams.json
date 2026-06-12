@@ -1,0 +1,482 @@
+[
+  {
+    "id": "MEX",
+    "name": {
+      "ja": "メキシコ",
+      "en": "Mexico"
+    },
+    "groupId": "A",
+    "flag": "🇲🇽",
+    "fifaRanking": 14
+  },
+  {
+    "id": "RSA",
+    "name": {
+      "ja": "南アフリカ",
+      "en": "South Africa"
+    },
+    "groupId": "A",
+    "flag": "🇿🇦",
+    "fifaRanking": 60
+  },
+  {
+    "id": "KOR",
+    "name": {
+      "ja": "韓国",
+      "en": "South Korea"
+    },
+    "groupId": "A",
+    "flag": "🇰🇷",
+    "fifaRanking": 25
+  },
+  {
+    "id": "CZE",
+    "name": {
+      "ja": "チェコ",
+      "en": "Czechia"
+    },
+    "groupId": "A",
+    "flag": "🇨🇿",
+    "fifaRanking": 40
+  },
+  {
+    "id": "CAN",
+    "name": {
+      "ja": "カナダ",
+      "en": "Canada"
+    },
+    "groupId": "B",
+    "flag": "🇨🇦",
+    "fifaRanking": 30
+  },
+  {
+    "id": "BIH",
+    "name": {
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "en": "Bosnia and Herzegovina"
+    },
+    "groupId": "B",
+    "flag": "🇧🇦",
+    "fifaRanking": 64
+  },
+  {
+    "id": "QAT",
+    "name": {
+      "ja": "カタール",
+      "en": "Qatar"
+    },
+    "groupId": "B",
+    "flag": "🇶🇦",
+    "fifaRanking": 56
+  },
+  {
+    "id": "SUI",
+    "name": {
+      "ja": "スイス",
+      "en": "Switzerland"
+    },
+    "groupId": "B",
+    "flag": "🇨🇭",
+    "fifaRanking": 19
+  },
+  {
+    "id": "BRA",
+    "name": {
+      "ja": "ブラジル",
+      "en": "Brazil"
+    },
+    "groupId": "C",
+    "flag": "🇧🇷",
+    "fifaRanking": 6
+  },
+  {
+    "id": "MAR",
+    "name": {
+      "ja": "モロッコ",
+      "en": "Morocco"
+    },
+    "groupId": "C",
+    "flag": "🇲🇦",
+    "fifaRanking": 7
+  },
+  {
+    "id": "HAI",
+    "name": {
+      "ja": "ハイチ",
+      "en": "Haiti"
+    },
+    "groupId": "C",
+    "flag": "🇭🇹",
+    "fifaRanking": 83
+  },
+  {
+    "id": "SCO",
+    "name": {
+      "ja": "スコットランド",
+      "en": "Scotland"
+    },
+    "groupId": "C",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "fifaRanking": 42
+  },
+  {
+    "id": "USA",
+    "name": {
+      "ja": "アメリカ",
+      "en": "United States"
+    },
+    "groupId": "D",
+    "flag": "🇺🇸",
+    "fifaRanking": 17
+  },
+  {
+    "id": "PAR",
+    "name": {
+      "ja": "パラグアイ",
+      "en": "Paraguay"
+    },
+    "groupId": "D",
+    "flag": "🇵🇾",
+    "fifaRanking": 41
+  },
+  {
+    "id": "AUS",
+    "name": {
+      "ja": "オーストラリア",
+      "en": "Australia"
+    },
+    "groupId": "D",
+    "flag": "🇦🇺",
+    "fifaRanking": 27
+  },
+  {
+    "id": "TUR",
+    "name": {
+      "ja": "トルコ",
+      "en": "Türkiye"
+    },
+    "groupId": "D",
+    "flag": "🇹🇷",
+    "fifaRanking": 22
+  },
+  {
+    "id": "GER",
+    "name": {
+      "ja": "ドイツ",
+      "en": "Germany"
+    },
+    "groupId": "E",
+    "flag": "🇩🇪",
+    "fifaRanking": 10
+  },
+  {
+    "id": "CUW",
+    "name": {
+      "ja": "キュラソー",
+      "en": "Curaçao"
+    },
+    "groupId": "E",
+    "flag": "🇨🇼",
+    "fifaRanking": 82
+  },
+  {
+    "id": "CIV",
+    "name": {
+      "ja": "コートジボワール",
+      "en": "Ivory Coast"
+    },
+    "groupId": "E",
+    "flag": "🇨🇮",
+    "fifaRanking": 33
+  },
+  {
+    "id": "ECU",
+    "name": {
+      "ja": "エクアドル",
+      "en": "Ecuador"
+    },
+    "groupId": "E",
+    "flag": "🇪🇨",
+    "fifaRanking": 23
+  },
+  {
+    "id": "NED",
+    "name": {
+      "ja": "オランダ",
+      "en": "Netherlands"
+    },
+    "groupId": "F",
+    "flag": "🇳🇱",
+    "fifaRanking": 8
+  },
+  {
+    "id": "JPN",
+    "name": {
+      "ja": "日本",
+      "en": "Japan"
+    },
+    "groupId": "F",
+    "flag": "🇯🇵",
+    "fifaRanking": 18
+  },
+  {
+    "id": "SWE",
+    "name": {
+      "ja": "スウェーデン",
+      "en": "Sweden"
+    },
+    "groupId": "F",
+    "flag": "🇸🇪",
+    "fifaRanking": 38
+  },
+  {
+    "id": "TUN",
+    "name": {
+      "ja": "チュニジア",
+      "en": "Tunisia"
+    },
+    "groupId": "F",
+    "flag": "🇹🇳",
+    "fifaRanking": 45
+  },
+  {
+    "id": "BEL",
+    "name": {
+      "ja": "ベルギー",
+      "en": "Belgium"
+    },
+    "groupId": "G",
+    "flag": "🇧🇪",
+    "fifaRanking": 9
+  },
+  {
+    "id": "EGY",
+    "name": {
+      "ja": "エジプト",
+      "en": "Egypt"
+    },
+    "groupId": "G",
+    "flag": "🇪🇬",
+    "fifaRanking": 29
+  },
+  {
+    "id": "IRN",
+    "name": {
+      "ja": "イラン",
+      "en": "Iran"
+    },
+    "groupId": "G",
+    "flag": "🇮🇷",
+    "fifaRanking": 20
+  },
+  {
+    "id": "NZL",
+    "name": {
+      "ja": "ニュージーランド",
+      "en": "New Zealand"
+    },
+    "groupId": "G",
+    "flag": "🇳🇿",
+    "fifaRanking": 85
+  },
+  {
+    "id": "ESP",
+    "name": {
+      "ja": "スペイン",
+      "en": "Spain"
+    },
+    "groupId": "H",
+    "flag": "🇪🇸",
+    "fifaRanking": 2
+  },
+  {
+    "id": "CPV",
+    "name": {
+      "ja": "カーボベルデ",
+      "en": "Cape Verde"
+    },
+    "groupId": "H",
+    "flag": "🇨🇻",
+    "fifaRanking": 67
+  },
+  {
+    "id": "KSA",
+    "name": {
+      "ja": "サウジアラビア",
+      "en": "Saudi Arabia"
+    },
+    "groupId": "H",
+    "flag": "🇸🇦",
+    "fifaRanking": 61
+  },
+  {
+    "id": "URU",
+    "name": {
+      "ja": "ウルグアイ",
+      "en": "Uruguay"
+    },
+    "groupId": "H",
+    "flag": "🇺🇾",
+    "fifaRanking": 16
+  },
+  {
+    "id": "FRA",
+    "name": {
+      "ja": "フランス",
+      "en": "France"
+    },
+    "groupId": "I",
+    "flag": "🇫🇷",
+    "fifaRanking": 3
+  },
+  {
+    "id": "SEN",
+    "name": {
+      "ja": "セネガル",
+      "en": "Senegal"
+    },
+    "groupId": "I",
+    "flag": "🇸🇳",
+    "fifaRanking": 15
+  },
+  {
+    "id": "IRQ",
+    "name": {
+      "ja": "イラク",
+      "en": "Iraq"
+    },
+    "groupId": "I",
+    "flag": "🇮🇶",
+    "fifaRanking": 57
+  },
+  {
+    "id": "NOR",
+    "name": {
+      "ja": "ノルウェー",
+      "en": "Norway"
+    },
+    "groupId": "I",
+    "flag": "🇳🇴",
+    "fifaRanking": 31
+  },
+  {
+    "id": "ARG",
+    "name": {
+      "ja": "アルゼンチン",
+      "en": "Argentina"
+    },
+    "groupId": "J",
+    "flag": "🇦🇷",
+    "fifaRanking": 1
+  },
+  {
+    "id": "ALG",
+    "name": {
+      "ja": "アルジェリア",
+      "en": "Algeria"
+    },
+    "groupId": "J",
+    "flag": "🇩🇿",
+    "fifaRanking": 28
+  },
+  {
+    "id": "AUT",
+    "name": {
+      "ja": "オーストリア",
+      "en": "Austria"
+    },
+    "groupId": "J",
+    "flag": "🇦🇹",
+    "fifaRanking": 24
+  },
+  {
+    "id": "JOR",
+    "name": {
+      "ja": "ヨルダン",
+      "en": "Jordan"
+    },
+    "groupId": "J",
+    "flag": "🇯🇴",
+    "fifaRanking": 63
+  },
+  {
+    "id": "POR",
+    "name": {
+      "ja": "ポルトガル",
+      "en": "Portugal"
+    },
+    "groupId": "K",
+    "flag": "🇵🇹",
+    "fifaRanking": 5
+  },
+  {
+    "id": "COD",
+    "name": {
+      "ja": "コンゴ民主共和国",
+      "en": "DR Congo"
+    },
+    "groupId": "K",
+    "flag": "🇨🇩",
+    "fifaRanking": 46
+  },
+  {
+    "id": "UZB",
+    "name": {
+      "ja": "ウズベキスタン",
+      "en": "Uzbekistan"
+    },
+    "groupId": "K",
+    "flag": "🇺🇿",
+    "fifaRanking": 50
+  },
+  {
+    "id": "COL",
+    "name": {
+      "ja": "コロンビア",
+      "en": "Colombia"
+    },
+    "groupId": "K",
+    "flag": "🇨🇴",
+    "fifaRanking": 13
+  },
+  {
+    "id": "ENG",
+    "name": {
+      "ja": "イングランド",
+      "en": "England"
+    },
+    "groupId": "L",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "fifaRanking": 4
+  },
+  {
+    "id": "CRO",
+    "name": {
+      "ja": "クロアチア",
+      "en": "Croatia"
+    },
+    "groupId": "L",
+    "flag": "🇭🇷",
+    "fifaRanking": 11
+  },
+  {
+    "id": "GHA",
+    "name": {
+      "ja": "ガーナ",
+      "en": "Ghana"
+    },
+    "groupId": "L",
+    "flag": "🇬🇭",
+    "fifaRanking": 73
+  },
+  {
+    "id": "PAN",
+    "name": {
+      "ja": "パナマ",
+      "en": "Panama"
+    },
+    "groupId": "L",
+    "flag": "🇵🇦",
+    "fifaRanking": 34
+  }
+]
