@@ -86,9 +86,17 @@
     },
     "home": "CAN",
     "away": "BIH",
-    "status": "scheduled",
-    "id": 3
-  },
+    "status": "finished",
+    "id": 3,
+    "homeScore": 1,
+    "awayScore": 1,
+    "goals": [
+    {"teamId": "BIH", "player": {"ja": "ルキッチ", "en": "Lukic"},"minute":21},
+
+    {"teamId": "CAN", "player": {"ja": "ラリン", "en": "Larin"},"minute":78}
+    
+    ]
+    },
   {
     "stage": "group",
     "groupId": "D",
