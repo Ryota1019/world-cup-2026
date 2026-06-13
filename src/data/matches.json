@@ -108,8 +108,18 @@
     },
     "home": "USA",
     "away": "PAR",
-    "status": "scheduled",
-    "id": 4
+    "status": "finished",
+    "id": 4,
+    "homeScore": 4,
+    "awayScore": 1,
+    "goals": [
+      { "teamId": "USA", "player": { "ja": "ボバディージャ", "en": "Bobadilla" }, "minute": 7, "ownGoal": true },
+      { "teamId": "USA", "player": { "ja": "バログン", "en": "Balogun" }, "minute": 31 },
+      { "teamId": "USA", "player": { "ja": "バログン", "en": "Balogun" }, "minute": 45 },
+      { "teamId": "USA", "player": { "ja": "レイナ", "en": "Reyna" }, "minute": 90 },
+      { "teamId": "PAR", "player": { "ja": "マウリシオ", "en": "Maurício" }, "minute": 73 }
+    ]
+
   },
   {
     "stage": "group",
